@@ -1,0 +1,32 @@
+﻿"Labour force characteristics by educational attainment, monthly, unadjusted for seasonality 1",,,,,,,,,,,,,,,,,,,,,,,,,,
+Monthly,,,,,,,,,,,,,,,,,,,,,,,,,,
+Table: 14-10-0019-01 (formerly CANSIM 282-0003),,,,,,,,,,,,,,,,,,,,,,,,,,
+"Geography: Canada, Province or territory",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Ontario,,,,,,,,,,,,,,,,,,,,,,,,,
+,Population 4 5,,,,,,,,,,,,,Unemployment rate 6,,,,,,,,,,,,
+,Both sexes,,,,,,,,,,,,,Both sexes,,,,,,,,,,,,
+,"25 years and over  (x 1,000)",,,,,,,,,,,,,25 years and over,,,,,,,,,,,,
+Educational attainment3,Jan-19,Feb-19,Mar-19,Apr-19,May-19,Jun-19,Jul-19,Aug-19,Sep-19,Oct-19,Nov-19,Dec-19,Jan-20,Jan-19,Feb-19,Mar-19,Apr-19,May-19,Jun-19,Jul-19,Aug-19,Sep-19,Oct-19,Nov-19,Dec-19,Jan-20
+,Persons,,,,,,,,,,,,,Percentage,,,,,,,,,,,,
+"Total, all education levels","10,207.10","10,220.20","10,233.90","10,253.40","10,269.40","10,288.10","10,311.20","10,328.80","10,350.60","10,368.10","10,383.30","10,397.10","10,410.90",4.8,4.7,5.3,4.9,4.1,4.2,4.7,5.2,3.9,3.8,4,4,4.5
+Postsecondary certificate or diploma 7,"3,313.50","3,277.20","3,286.90","3,269.00","3,273.60","3,222.50","3,254.80","3,305.40","3,287.50","3,299.70","3,259.30","3,273.60","3,278.00",4.4,4.2,4.8,4.1,3.4,3.7,4,4.3,3.3,3.5,3.7,3.8,4
+University degree 8,"3,295.80","3,355.10","3,350.80","3,409.80","3,458.60","3,519.00","3,493.50","3,492.60","3,552.50","3,527.40","3,541.00","3,545.70","3,594.80",4.2,4.1,4.7,4.2,3.7,3.6,4.7,5.7,3.8,3.4,3.5,3.4,4
+Bachelor's degree,"2,116.20","2,202.40","2,198.80","2,222.90","2,250.20","2,311.90","2,296.80","2,257.70","2,299.50","2,300.30","2,323.50","2,315.70","2,335.20",4.1,3.8,4.6,4.1,3.9,3.6,5.1,5.9,4.1,3.2,3.1,3.5,3.8
+Above bachelor's degree,"1,179.60","1,152.70","1,152.00","1,186.80","1,208.40","1,207.20","1,196.70","1,234.80","1,253.00","1,227.20","1,217.50","1,230.10","1,259.60",4.4,4.6,4.8,4.3,3.3,3.5,3.8,5.3,3.3,3.8,4.1,3.2,4.4
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+Symbol legend:,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"To ensure respondent confidentiality, estimates below a certain threshold are suppressed. For Canada, Quebec, Ontario, Alberta and British Columbia suppression is applied to all data below 1,500. The threshold level for Newfoundland and Labrador, Nova Scotia, New Brunswick, Manitoba and Saskatchewan is 500, while in Prince Edward Island, estimates under 200 are supressed. For census metropolitan areas (CMAs) and economic regions (ERs), use their respective provincial suppression levels mentioned above. Estimates are based on smaller sample sizes the more detailed the table becomes, which could result in lower data quality.",,,,,,,,,,,,,,,,,,,,,,,,,
+2,Excluding the territories.,,,,,,,,,,,,,,,,,,,,,,,,,
+3,"The following categories refer to the highest level of schooling completed. Questions relating to educational attainment were changed in 1990, to better capture the relationship between educational attainment and labour market outcomes. Because this introduced a break in the education series, this table only contains data from 1990 onwards. Beginning January 1990, data on primary and secondary education reflects the highest grade completed. This provides a more consistent measure for those who accelerate or fail a grade than did years of school. A question on high school graduation has also been added since it is generally believed that persons who have never completed their secondary education have greater difficulty competing in the labour market. With the new questions, any education that could be counted towards a degree, certificate or diploma from an educational institution is taken as postsecondary education. The change allows more persons into the postsecondary education category. For example, trades programs offered through apprenticeship, vocational schools or private trade schools do not always require high school graduation. Such education is now considered as postsecondary while only primary or secondary would have been recognized prior to 1990. Finally, more information is collected on the type of postsecondary education: 1) some postsecondary; 2) trades certificate or diploma from a vocational or apprenticeship training; 3) non-university certificate or diploma from a community college, CEGEP or school of nursing; 4) university certificate below bachelors degree; 5) bachelors degree; and 6) university degree or certificate above bachelors degree.",,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Number of persons of working age, 15 years and over. Estimates in thousands, rounded to the nearest hundred.",,,,,,,,,,,,,,,,,,,,,,,,,
+5,"From December 2000 to January 2001, there is a slight level shift in the population series. This is due to the 2015 population rebasing, which was revised back to 2001. This level shift is evident for certain age groups and in two provinces (Manitoba and Saskatchewan). These shifts are minor for labour force estimates and rates.",,,,,,,,,,,,,,,,,,,,,,,,,
+6,"The unemployment rate is the number of unemployed persons expressed as a percentage of the labour force. The unemployment rate for a particular group (age, sex, marital status, etc.) is the number unemployed in that group expressed as a percentage of the labour force for that group. Estimates are percentages, rounded to the nearest tenth.",,,,,,,,,,,,,,,,,,,,,,,,,
+7,"Completed a certificate (including a trade certificate) or diploma from an educational institution beyond the secondary level. This includes certificates from vocational schools, apprenticeship training, community college, Collège d'Enseignement Général et Professionnel (CEGEP) and school of nursing. Also included are certificates below a Bachelor's degree obtained at a university.",,,,,,,,,,,,,,,,,,,,,,,,,
+8,Attained at least a university bachelor's degree.,,,,,,,,,,,,,,,,,,,,,,,,,
+9,,,,,,,,,,,,,,,,,,,,,,,,,,
+"How to cite: Statistics Canada. Table 14-10-0019-01 Labour force characteristics by educational attainment, monthly, unadjusted for seasonality",,,,,,,,,,,,,,,,,,,,,,,,,,
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410001901,,,,,,,,,,,,,,,,,,,,,,,,,,
+DOI: https://doi.org/10.25318/1410001901-eng,,,,,,,,,,,,,,,,,,,,,,,,,,
